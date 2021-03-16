@@ -1,5 +1,5 @@
-# Windows2019RDP-US
-Windows Server 2019 Github with RDP Access (ngrok US) 
+# Remote Destop-US
+Win Github with RDP Access (ngrok US) 
 Repo link: https://github.com/aliyajaferi/VillageonlineRPD-US
 
 Get a VPS Microsoft Azure with 2cpu-7gb Ram from Aliya Jaferi with Github:
